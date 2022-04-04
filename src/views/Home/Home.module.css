@@ -1,0 +1,10 @@
+.ulFilms {
+    margin-bottom: 3rem;
+}
+.ulFilms li {
+    display: inline-block;
+    padding-right: 50px;
+}
+.ulFilms li a:hover {
+    text-decoration: underline;
+}

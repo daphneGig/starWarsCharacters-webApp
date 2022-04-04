@@ -1,0 +1,495 @@
+[
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
+    "species": "human"
+  },
+  {
+    "id": 2,
+    "name": "C-3PO",
+    "species": "droid",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png"
+  },
+  {
+    "id": 3,
+    "name": "R2-D2",
+    "species": "droid",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png"
+  },
+  {
+    "id": 4,
+    "name": "Darth Vader",
+    "image": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg",
+    "species": "human"
+  },
+  {
+    "id": 5,
+    "name": "Leia Organa",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png",
+    "species": "human"
+  },
+  {
+    "id": 6,
+    "name": "Owen Lars",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/OwenCardTrader.png",
+    "species": "human"
+  },
+  {
+    "id": 7,
+    "name": "Beru Whitesun lars",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png",
+    "species": "human"
+  },
+  {
+    "id": 8,
+    "name": "R5-D4",
+    "species": "droid",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cb/R5-D4_Sideshow.png"
+  },
+  {
+    "id": 9,
+    "name": "Biggs Darklighter",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/0/00/BiggsHS-ANH.png",
+    "species": "human"
+  },
+  {
+    "id": 10,
+    "name": "Obi-Wan Kenobi",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg",
+    "species": "human"
+  },
+  {
+    "id": 11,
+    "name": "Anakin Skywalker",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png",
+    "species": "human"
+  },
+  {
+    "id": 12,
+    "name": "Wilhuff Tarkin",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg",
+    "species": "human"
+  },
+  {
+    "id": 13,
+    "name": "Chewbacca",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png",
+    "species": "wookiee"
+  },
+  {
+    "id": 14,
+    "name": "Han Solo",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png",
+    "species": "human"
+  },
+  {
+    "id": 15,
+    "name": "Greedo",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg",
+    "species": "rodian"
+  },
+  {
+    "id": 16,
+    "name": "Jabba Desilijic Tiure",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Jabba_SWSB.png",
+    "species": "hutt"
+  },
+  {
+    "id": 18,
+    "name": "Wedge Antilles",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/60/WedgeHelmetless-ROTJHD.jpg",
+    "species": "human"
+  },
+  {
+    "id": 19,
+    "name": "Jek Tono Porkins",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/JekPorkins-DB.png",
+    "species": "human"
+  },
+  {
+    "id": 20,
+    "name": "Yoda",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png",
+    "species": "yoda's species"
+  },
+  {
+    "id": 21,
+    "name": "Palpatine",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png",
+    "species": "human"
+  },
+  {
+    "id": 22,
+    "name": "Boba Fett",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png",
+    "species": "human"
+  },
+  {
+    "id": 23,
+    "name": "IG-88",
+    "species": "droid",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f2/IG-88.png"
+  },
+  {
+    "id": 24,
+    "name": "Bossk",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/Bossk.png",
+    "species": "trandoshan"
+  },
+  {
+    "id": 25,
+    "name": "Lando Calrissian",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/8/8f/Lando_ROTJ.png",
+    "species": "human"
+  },
+  {
+    "id": 26,
+    "name": "Lobot",
+    "image": "",
+    "species": "human"
+  },
+  {
+    "id": 27,
+    "name": "Ackbar",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/29/Admiral_Ackbar_RH.png",
+    "species": "mon calamari"
+  },
+  {
+    "id": 28,
+    "name": "Mon Mothma",
+    "image": "",
+    "species": "human"
+  },
+  {
+    "id": 29,
+    "name": "Arvel Crynyd",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Arvel-crynyd.jpg",
+    "species": "human"
+  },
+  {
+    "id": 30,
+    "name": "Wicket Systri Warrick",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4f/Wicket_RotJ.png",
+    "species": "ewok"
+  },
+  {
+    "id": 31,
+    "name": "Nien Nunb",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Old_nien_nunb_-_profile.png",
+    "species": "sullustan"
+  },
+  {
+    "id": 32,
+    "name": "Qui-Gon Jinn",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg",
+    "species": "human"
+  },
+  {
+    "id": 33,
+    "name": "Nute Gunray",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fd/Nute_Gunray_SWE.png",
+    "species": "neimoidian"
+  },
+  {
+    "id": 34,
+    "name": "Finis Valorum",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/51/ValorumPortrait-SWE.png",
+    "species": "human"
+  },
+  {
+    "id": 35,
+    "name": "Padmé Amidala",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg",
+    "species": "human"
+  },
+  {
+    "id": 36,
+    "name": "Jar Jar Binks",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d2/Jar_Jar_aotc.jpg",
+    "species": "gungan"
+  },
+  {
+    "id": 37,
+    "name": "Roos Tarpals",
+    "image": "",
+    "species": "gungan"
+  },
+  {
+    "id": 38,
+    "name": "Rugor Nass",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Bossnass.jpg",
+    "species": "gungan"
+  },
+  {
+    "id": 39,
+    "name": "Ric Olié",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/RicOlieHS-SWE.png",
+    "species": "human"
+  },
+  {
+    "id": 40,
+    "name": "Watto",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/WattoHS.jpg",
+    "species": "toydarian"
+  },
+  {
+    "id": 41,
+    "name": "Sebulba",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Sebulba_Headshot_Closeup.png",
+    "species": "dug"
+  },
+  {
+    "id": 42,
+    "name": "Quarsh Panaka",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/72/PanakaHS-TPM.png",
+    "species": "human"
+  },
+  {
+    "id": 43,
+    "name": "Shmi Skywalker",
+    "image": "",
+    "species": "human"
+  },
+  {
+    "id": 44,
+    "name": "Darth Maul",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png",
+    "species": "dathomirian zabrak"
+  },
+  {
+    "id": 45,
+    "name": "Bib Fortuna",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png",
+    "species": "twi'lek"
+  },
+  {
+    "id": 46,
+    "name": "Ayla Secura",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f9/Aayla.jpg",
+    "species": "twi'lek"
+  },
+  {
+    "id": 47,
+    "name": "Ratts Tyerell",
+    "image": "",
+    "species": "aleena"
+  },
+  {
+    "id": 48,
+    "name": "Dud Bolt",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Dud_Bolt_Podracer_Cockpit.png",
+    "species": "vulptereen"
+  },
+  {
+    "id": 49,
+    "name": "Gasgano",
+    "image": "",
+    "species": "xexto"
+  },
+  {
+    "id": 50,
+    "name": "Ben Quadinaros",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png",
+    "species": "toong"
+  },
+  {
+    "id": 51,
+    "name": "Mace Windu",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/58/Mace_ROTS.png",
+    "species": "human"
+  },
+  {
+    "id": 52,
+    "name": "Ki-Adi-Mundi",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg",
+    "species": "cerean"
+  },
+  {
+    "id": 53,
+    "name": "Kit Fisto",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/Kit_Fisto_Card_Trader.png",
+    "species": "nautolan"
+  },
+  {
+    "id": 54,
+    "name": "Eeth Koth",
+    "height": 1.71,
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png",
+    "species": "iridonian zabrak"
+  },
+  {
+    "id": 55,
+    "name": "Adi Gallia",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg",
+    "species": "tholothian"
+  },
+  {
+    "id": 56,
+    "name": "Saesee Tiin",
+    "image": "",
+    "species": "iktotchi"
+  },
+  {
+    "id": 57,
+    "name": "Yarael Poof",
+    "image": "",
+    "species": "quermian"
+  },
+  {
+    "id": 58,
+    "name": "Plo Koon",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png",
+    "species": "kel dor"
+  },
+  {
+    "id": 59,
+    "name": "Mas Amedda",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png",
+    "species": "chagrian"
+  },
+  {
+    "id": 60,
+    "name": "Gregar Typho",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/52/Gregar_Typho.jpg",
+    "species": "human"
+  },
+  {
+    "id": 61,
+    "name": "Cordé",
+    "image": "",
+    "species": "human"
+  },
+  {
+    "id": 62,
+    "name": "Cliegg Lars",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/36/ClieggLarsHS-SWE.jpg",
+    "species": "human"
+  },
+  {
+    "id": 63,
+    "name": "Poggle the Lesser",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/93/Poggle_the_lesser_-_sw_card_trader.png",
+    "species": "geonosian"
+  },
+  {
+    "id": 64,
+    "name": "Luminara Unduli",
+    "image": "",
+    "species": "mirialan"
+  },
+  {
+    "id": 65,
+    "name": "Barriss Offee",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Barrisprofile2.jpg",
+    "species": "mirialan"
+  },
+  {
+    "id": 66,
+    "name": "Dormé",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/18/Dormesenate.jpg",
+    "species": "human"
+  },
+  {
+    "id": 67,
+    "name": "Dooku",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg",
+    "species": "human"
+  },
+  {
+    "id": 68,
+    "name": "Bail Prestor Organa",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Bail_Organa_Mug.jpg",
+    "species": "human"
+  },
+  {
+    "id": 69,
+    "name": "Jango Fett",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/56/JangoInfobox.png",
+    "species": "human"
+  },
+  {
+    "id": 70,
+    "name": "Zam Wesell",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7d/Clawdite.jpg",
+    "species": "clawdite"
+  },
+  {
+    "id": 71,
+    "name": "Dexter Jettster",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg",
+    "species": "besalisk"
+  },
+  {
+    "id": 72,
+    "name": "Lama Su",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Lama_Su.jpg",
+    "species": "kaminoan"
+  },
+  {
+    "id": 73,
+    "name": "Taun We",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9c/TaunWe.jpg",
+    "species": "kaminoan"
+  },
+  {
+    "id": 74,
+    "name": "Jocasta Nu",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/1/15/Jocasta_Nu_SWE.png",
+    "species": "human"
+  },
+  {
+    "id": 75,
+    "name": "R4-P17",
+    "species": "droid",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6b/R4-P17.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Wat Tambor",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a5/Wat_Tambor.png",
+    "species": "skakoan"
+  },
+  {
+    "id": 77,
+    "name": "San Hill",
+    "image": "",
+    "species": "muun"
+  },
+  {
+    "id": 78,
+    "name": "Shaak Ti",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png",
+    "species": "togruta"
+  },
+  {
+    "id": 79,
+    "name": "Grievous",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Grievoushead.jpg",
+    "species": "kaleesh"
+  },
+  {
+    "id": 80,
+    "name": "Tarfful",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Tarfful_RotS.png",
+    "species": "wookiee"
+  },
+  {
+    "id": 81,
+    "name": "Raymus Antilles",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/8/80/Raymus_card_trader.png",
+    "species": "human"
+  },
+  {
+    "id": 82,
+    "name": "Sly Moore",
+    "image": "",
+    "species": "umbaran"
+  },
+  {
+    "id": 83,
+    "name": "Tion Medon",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/4/43/Tion_Medon.jpg",
+    "species": "pau'an"
+  }
+]

@@ -1,0 +1,36 @@
+.appTable {
+    color: #F5F5F5;
+    background-color: rgba(21, 21, 21, 0.7);
+}
+.appTable th {
+    font-weight: 400;
+    color: #fee123;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(31, 31, 31, 0.9);
+}
+.appTable td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.appTable tr:nth-child(even) {
+    background-color: rgba(31, 31, 31, 0.9);
+}
+.imgTable {
+    max-height: 20vh;
+    width: auto;
+    border-radius: 5px;
+}
+@media screen and (min-width: 1200px){
+    .imgTable {
+        max-height: 30vh;
+    }
+}
+.appBtnTable {
+    color: #F5F5F5;
+    font-size: 30px;
+    padding-left: 50px;
+}
+.appBtnTable:hover {
+    color: #CE102C;
+}

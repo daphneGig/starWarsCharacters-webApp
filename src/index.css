@@ -1,0 +1,132 @@
+/**Tipography**/
+h1 {
+    font-family: "Poppins", SansSerif;
+    color: #fee123;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+h2, h3 {
+    font-family: "Poppins", SansSerif;
+    color: #F5F5F5;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+h4, h5, h6 {
+    font-family: "Poppins", SansSerif;
+    color: #F5F5F5;
+    margin-bottom: 2rem;
+}
+p {
+    font-family: "Poppins", SansSerif;
+    color: #F5F5F5;
+    margin-top: 1rem;
+}
+a {
+    font-family: "Poppins", SansSerif;
+    color: #F5F5F5;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+a:hover {
+    color: #ce102c;
+}
+a.active {
+    color: #ce102c;
+    font-weight: 500;
+}
+table {
+    font-family: "Poppins", SansSerif;
+}
+ul li {
+    font-family: "Poppins", SansSerif;
+    color: #F5F5F5;
+}
+/**Logo dimentions**/
+.app-logo {
+    height: 15vh;
+}
+.app-logo-unimib {
+    height: 12vh;
+}
+@media only screen and (min-width: 768px) {
+    .app-logo {
+        height: 12vh;
+    }
+    .app-logo-unimib {
+        height: 10vh;
+    }
+}
+@media only screen and (min-width: 1024px) {
+    .app-logo {
+        height: 10vh;
+    }
+    .app-logo-unimib {
+        height: 9vh;
+    }
+}
+@media only screen and (min-width: 1100px) {
+    .app-logo {
+        height: 20vh;
+    }
+    .app-logo-unimib {
+        height: 15vh;
+    }
+}
+@media only screen and (min-width: 1700px) {
+    .app-logo {
+        height: 15vh;
+    }
+    .app-logo-unimib {
+        height: 10vh;
+    }
+}
+/**Button switch**/
+.option {
+    font-family: "Poppins", SansSerif;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 2px solid #F5F5F5;
+    color: #F5F5F5;
+}
+.option:first-child {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.option:last-child {
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.option.active-switch {
+    background-color: #F5F5F5;
+    color: #151515;
+}
+.option-order-table {
+    padding: 5px 10px;
+}
+/**Generic button**/
+.app-btn {
+    font-family: "Poppins", SansSerif;
+    border: 2px solid #F5F5F5;
+    background-color: #F5F5F5;
+    color: #151515;
+}
+.app-btn:hover {
+    border: 2px solid #F5F5F5;
+    background-color: rgba(0, 0, 0, 0);
+    color: #F5F5F5;
+}
+.app-order-btn {
+    font-size: 1.4rem;
+}
+/**Generic for cards**/
+.app-card-title {
+    color: #fee123;
+}
+/**Select**/
+.app-select {
+    width: auto;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    font-family: "Poppins", SansSerif;
+}

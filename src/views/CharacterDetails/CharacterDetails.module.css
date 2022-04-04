@@ -1,0 +1,43 @@
+.characterInfoCard {
+    background-color: rgba(31, 31, 31, 0.9);
+    border-radius: 20px;
+    padding: 40px 20px;
+}
+.characterInfoGeneric {
+    background-color: #151515;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+}
+.characterInfoSubtitle {
+    font-weight: 200;
+}
+.characterInfoSubtitleAff {
+    font-weight: 200;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.characterInfoText {
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+.imgDetail {
+    width: 60%;
+    height: auto;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+}
+@media only screen and (min-width: 768px) {
+    .imgDetail {
+        width: 70%;
+        height: auto;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .imgDetail {
+        width: 50%;
+        height: auto;
+    }
+}
