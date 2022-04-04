@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/starWarsCharacters-webApp/static/css/main.85bf9c19.chunk.css",
+    "main.js": "/starWarsCharacters-webApp/static/js/main.9eade040.chunk.js",
+    "main.js.map": "/starWarsCharacters-webApp/static/js/main.9eade040.chunk.js.map",
+    "runtime-main.js": "/starWarsCharacters-webApp/static/js/runtime-main.2f1dae49.js",
+    "runtime-main.js.map": "/starWarsCharacters-webApp/static/js/runtime-main.2f1dae49.js.map",
+    "static/css/2.383c0125.chunk.css": "/starWarsCharacters-webApp/static/css/2.383c0125.chunk.css",
+    "static/js/2.150d1a37.chunk.js": "/starWarsCharacters-webApp/static/js/2.150d1a37.chunk.js",
+    "static/js/2.150d1a37.chunk.js.map": "/starWarsCharacters-webApp/static/js/2.150d1a37.chunk.js.map",
+    "static/js/3.f8efe739.chunk.js": "/starWarsCharacters-webApp/static/js/3.f8efe739.chunk.js",
+    "static/js/3.f8efe739.chunk.js.map": "/starWarsCharacters-webApp/static/js/3.f8efe739.chunk.js.map",
+    "index.html": "/starWarsCharacters-webApp/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/starWarsCharacters-webApp/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.85bf9c19.chunk.css.map": "/starWarsCharacters-webApp/static/css/main.85bf9c19.chunk.css.map",
+    "static/js/2.150d1a37.chunk.js.LICENSE.txt": "/starWarsCharacters-webApp/static/js/2.150d1a37.chunk.js.LICENSE.txt",
+    "static/media/TemplateApp.module.css": "/starWarsCharacters-webApp/static/media/spaceBackground.2ed4ae44.jpg",
+    "static/media/starWarsANewHope.e3b138bc.jpg": "/starWarsCharacters-webApp/static/media/starWarsANewHope.e3b138bc.jpg",
+    "static/media/starWarsBig.da402c58.jpg": "/starWarsCharacters-webApp/static/media/starWarsBig.da402c58.jpg",
+    "static/media/starWarsLogo.add59f77.png": "/starWarsCharacters-webApp/static/media/starWarsLogo.add59f77.png",
+    "static/media/starWarsThePhantomMenace.737fdd01.jpg": "/starWarsCharacters-webApp/static/media/starWarsThePhantomMenace.737fdd01.jpg",
+    "static/media/unimibLogo.6945040f.svg": "/starWarsCharacters-webApp/static/media/unimibLogo.6945040f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1dae49.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.150d1a37.chunk.js",
+    "static/css/main.85bf9c19.chunk.css",
+    "static/js/main.9eade040.chunk.js"
+  ]
+}
